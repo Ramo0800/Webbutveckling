@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../Webbutveckling/Nyhetsartikel"
+		},
+		{
+			"path": "../Webbutveckling/PIXAR"
+		},
+		{
+			"path": "../Webbutveckling/Recept"
+		},
+		{
+			"path": "../Webbutveckling/Webbhistoria"
+		},
+		{
+			"path": "../Webbutveckling/.vscode"
+		},
+		{
+			"path": "../Webbutveckling/Javascript"
+		},
+		{
+			"path": "../Webbutveckling/Mina favoritmedia"
+		}
+	],
+	"settings": {}
+}
