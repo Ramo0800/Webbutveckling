@@ -22,17 +22,16 @@ justify-items: right;
 
 
 .grid img{
-  align-items: right;
-  width: 95%;
-  height: 100%
+  width: 90%;
+  height: 75%;
 }
 .grid1 img{
   align-items: right;
-  width: 50%;
+  width: 60%;
   height: 100%;
 }
 .grid2 img{
-  align-items: start;
+  align-items: right;
   width: 50%;
   height: 50%;
 }
